@@ -30,3 +30,5 @@ __pycache__/
 # Generated data
 data/sample.root
 
+# MacOS
+.DS_Store
