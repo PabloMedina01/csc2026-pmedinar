@@ -22,3 +22,5 @@ TEST_CASE("TrackReconstructor returns one track when hits are present") {
     REQUIRE(tracks[0].hits[0].energy == Catch::Approx(4.0));
 }
 
+
+
